@@ -1,0 +1,1 @@
+mvn clean verify install-node-npm-and-appium,use-installed-node-and-appium,start-and-stop-appium,integration-test
