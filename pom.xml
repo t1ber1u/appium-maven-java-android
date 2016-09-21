@@ -174,11 +174,11 @@ limitations under the License.
                 <plugin>
                     <groupId>com.simpligility.maven.plugins</groupId>
                     <artifactId>android-maven-plugin</artifactId>
-                    <version>4.3.0</version>
+                    <version>4.2.0</version>
                     <extensions>true</extensions>
                     <configuration>
                         <sdk>
-                            <platform>21</platform>
+                            <platform>22</platform>
                         </sdk>
                     </configuration>                
                 </plugin>

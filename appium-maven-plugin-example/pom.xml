@@ -144,9 +144,9 @@ limitations under the License.
                             </execution>
                         </executions>
                         <configuration>
-                            <emulatorAvd>Default</emulatorAvd>
-                            <emulatorWait>400000</emulatorWait>
-                            <emulatorOptions>-no-skin -no-audio -no-window</emulatorOptions>
+                            <emulatorAvd>Nexus_One_API_24</emulatorAvd>
+                            <emulatorWait>300000</emulatorWait>
+                            <emulatorOptions></emulatorOptions>
                         </configuration>
                     </plugin>                
                 </plugins>
